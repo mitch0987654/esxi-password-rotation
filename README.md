@@ -6,7 +6,7 @@ Contains the execution script and a verification script written with python. The
 
 #setup a new python venv
 
-python -m venv python-venv-routers
+python -m venv python-venv-esxi
 
 #active this virtual environment
 
@@ -19,4 +19,4 @@ pip install pyvmomi
 pip install keepercommander
 
 
-#Within this python-venv-routers directory create the two script files and modify them as necessary. We will also need to create the config.json file required for keeper
+#Within this python-venv-esxi directory create the two script files and modify them as necessary. We will also need to create the config.json file required for keeper
